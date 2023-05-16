@@ -58,6 +58,14 @@ Data communication between nodes and dashboard is bridged by Message Queue (MQTT
 2. EIC Server 2 will subscribe to topic rat-detect to consume microcontroller data
 3. Consumed data will be used as monitoring dashboard.
 
+Data Example:
+
+detect_time        |	node_id
+| ---------------------- | -------------- |
+2023-05-12 11:00:50	 | SMP-ELC_R-01
+2023-05-12 11:05:50	 | SMP-ELC_R-01
+2023-05-12 10:05:50	 | SMP-ELC_R-02
+2023-05-12 3:05:50	 | PM-ELC_R-02
 
 
 ## Feedback and Contributing
