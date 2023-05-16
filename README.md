@@ -67,6 +67,9 @@ detect_time        |	node_id
 2023-05-12 10:05:50	 | SMP-ELC_R-02
 2023-05-12 3:05:50	 | PM-ELC_R-02
 
+Dashboard Example:
+
+![Dashboard](https://github.com/verlym/rat-detect/blob/main/EIC%20Rat%20Pest%20Detection%20Monitoring%20Dashboard%20-%20Example.jpeg)
 
 ## Feedback and Contributing
 
