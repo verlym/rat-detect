@@ -52,7 +52,7 @@ Above diagram shows overview of the end-to-end system. Data gathering will be do
 ### - Data Communitation Flow
 ![Data Communitation](https://github.com/verlym/rat-detect/blob/main/drawio-EIC%20Rat%20Pest%20Detection%20Architecture%20Data%20Flow.png)
 
-Data communication between nodes and dashboard is bridged by Message Queue (MQTT). MQTT (Message Queue Telemetry Transport) is a Publish-Subscribe based "lightweight" messaging protocol for use on top of the TCP/IP stack. Please read detail here.
+Data communication between nodes and dashboard is bridged by Message Queue (MQTT). MQTT (Message Queue Telemetry Transport) is a Publish-Subscribe based "lightweight" messaging protocol for use on top of the TCP/IP stack. Please read detail [here](https://mntolia.com/fundamentals-mqtt/).
 
 1. Microcontroller publish data to topic rat-detect to MQTT broker located in data center (EIC Server 1)
 2. EIC Server 2 will subscribe to topic rat-detect to consume microcontroller data
