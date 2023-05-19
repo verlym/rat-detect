@@ -1,5 +1,7 @@
 /*
    Smart Pest Detection and Repellent System Prototype
+   Detail prototype simulation can be seen here: https://wokwi.com/projects/365135161739188225
+   Any feedback or ideas are really appreaciated :)
 */
 
 // Define the PIR sensor pin
