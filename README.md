@@ -74,6 +74,16 @@ Dashboard Example:
 
 ![Dashboard](https://github.com/verlym/rat-detect/blob/main/EIC%20Rat%20Pest%20Detection%20Monitoring%20Dashboard%20-%20Example.jpeg)
 
+## Todo
+
+Below are some upcoming works in this project:
+* Refactor code and project structure
+* setup CI/CD
+* create app build mechanism using CMake/Makefile to run program (no IDE needed anymore)
+* setup arduino ethernet shield 
+* setup MQTT client and server
+* create SPEAR dashboard for realtime rats monitoring
+
 ## Feedback and Contributing
 
 Contributions are always welcome! Please reach out to us
