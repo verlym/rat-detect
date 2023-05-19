@@ -30,7 +30,8 @@ reduce the the use of dangerous and toxic chemicals and poison that may be harmf
 ## Current Status & Problem
 
 Several known ways to
-repel and eradicate rodents such as rat poison, mouse picker, and electric rat repellent are spread out across the plants in both outdoor and indoor place. However, team don’t know for sure how many rats in plants.
+repel and eradicate rodents such as rat poison, mouse picker, and electric rat repellent are spread out across the plants in both outdoor and indoor place. However, team don’t know for sure how many rats population in each plants and how to control them properly.
+
 ## Proposed Solution
 Build rats detection and repellent system to help prevent rats broke the system. This automatic rats detection and repellent consists of two main parts, hardware system 
 (hardware) and software system (software). The hardware system consists of a series of sensor circuit 
