@@ -1,3 +1,4 @@
+![Spear Logo](https://github.com/verlym/rat-detect/blob/main/spear-logo.png)
 
 # Smart Pest Detection and Repellent for Rats (SPEAR)
 
