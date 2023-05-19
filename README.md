@@ -1,5 +1,7 @@
 ![Spear Logo](https://github.com/verlym/rat-detect/blob/main/spear-logo.png)
 
+[![Arduino_CI](https://github.com/verlym/rat-detect/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/verlym/rat-detect/actions/workflows/main.yml)
+
 # Smart Pest Detection and Repellent for Rats (SPEAR)
 
 SPEAR is an automatic rats detection and repellent system with additional real time monitoring dashboard to help KP staff control pest population.
